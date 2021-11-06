@@ -1,0 +1,7 @@
+Keyboard
+Mouse
+Stop the pc
+altf4
+Ram overloading
+open cmd
+open powershell
